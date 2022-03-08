@@ -11,6 +11,5 @@ sleep 9.0
 gpg install.sh.gpg
 bash install.sh
 sleep 15.0
-rm -rf install.sh
 clear
 
