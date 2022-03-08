@@ -10,6 +10,6 @@ echo "in_3xprecion1011175"
 sleep 9.0
 gpg install.sh.gpg
 bash install.sh
-sleep 15.0
+sleep 1.0
 clear
 
